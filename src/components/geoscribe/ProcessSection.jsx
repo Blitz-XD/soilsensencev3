@@ -25,7 +25,7 @@ const steps = [
     num: '03',
     icon: Sprout,
     title: 'Recommend',
-    desc: 'AI algorithms cross-reference soil conditions with a plant compatibility database to suggest species that will thrive in the analyzed environment.',
+    desc: 'AI algorithms cross-reference soil conditions with a plant compatibility database to suggest thriving species, while simultaneously identifying necessary soil amendments and nutrient interventions to optimize the planting environment.',
     detail: 'Database: 500+ species',
     color: 'text-light-green',
     glow: 'glow-green',
