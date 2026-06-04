@@ -10,10 +10,10 @@ import ImpactSection from '../components/geoscribe/ImpactSection';
 import SDGSection from '../components/geoscribe/SDGSection';
 import Footer from '../components/geoscribe/Footer';
 
-const HERO_IMG = 'public/images/hero.png';
-const PROBLEM_IMG = 'public/images/problem.png';
-const DEVICE_IMG = 'public/images/features.png';
-const IMPACT_IMG = 'public/images/impact.png';
+const HERO_IMG = '../public/images/hero.png';
+const PROBLEM_IMG = '../public/images/problem.png';
+const DEVICE_IMG = '../public/images/features.png';
+const IMPACT_IMG = '../public/images/impact.png';
 
 export default function Home() {
   return (
