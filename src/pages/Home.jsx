@@ -10,10 +10,10 @@ import ImpactSection from '../components/geoscribe/ImpactSection';
 import SDGSection from '../components/geoscribe/SDGSection';
 import Footer from '../components/geoscribe/Footer';
 
-const HERO_IMG = 'https://media.db.com/images/public/6a1fe87e24e14fbf2d64caf6/b85f86322_generated_1cfeabd5.png';
-const PROBLEM_IMG = 'https://media.db.com/images/public/6a1fe87e24e14fbf2d64caf6/89d836f65_generated_image.png';
-const DEVICE_IMG = 'https://media.db.com/images/public/6a1fe87e24e14fbf2d64caf6/9df312f80_generated_image.png';
-const IMPACT_IMG = 'https://media.db.com/images/public/6a1fe87e24e14fbf2d64caf6/aaca93e49_generated_7d80ec23.png';
+const HERO_IMG = '/images/geoscribe/hero.png';
+const PROBLEM_IMG = '/images/geoscribe/problem.png';
+const DEVICE_IMG = '/images/geoscribe/features.png';
+const IMPACT_IMG = '/images/geoscribe/impact.png';
 
 export default function Home() {
   return (
